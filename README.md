@@ -1,4 +1,4 @@
-# Environmental Noise Visualizer
+# Soundscape Visualizer
 
 Small DSP project that visualizes environmental audio using spectrogram analysis.
 
