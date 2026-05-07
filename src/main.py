@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 from scipy.io import wavfile
 
 # Load audio
-rate, data = wavfile.read("data/sample.wav")
+rate, data = wavfile.read("data/XC924056 - Savannah Sparrow - Passerculus sandwichensis.wav")
 
 # Create spectrogram
 plt.figure(figsize=(10, 4))
